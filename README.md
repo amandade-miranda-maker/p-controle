@@ -1,7 +1,7 @@
-# p-controle
+# controle de níveis
 Desenvolvimento do projeto de um sistema automatizado que meça e controle o nível de água do reservatório de uma indústria. Os dados devem ser mostrados através de um display de LCD.
 
-p-controle: Sistema de Monitoramento e Controle de Nível
+controle de níveis: Sistema de Monitoramento e Controle de Nível
 Este projeto consiste no desenvolvimento de um sistema automatizado industrial projetado para medir, monitorar e controlar o nível de água em reservatórios. O sistema foca em precisão e interface em tempo real para o operador.
 
 Sobre o Projeto
